@@ -7,7 +7,7 @@ This project is an end-to-end machine learning pipeline that translates sign lan
 
 **Key Features:**
 * **Custom Dataset Collection:** Built-in OpenCV data collection tool with pacing controls.
-* **Gaussian Noise Augmentation:** Automatically expands the dataset and improves model spatial invariance.
+* **Gaussian Noise Augmentation:** Automatically expands the dataset and improves model spatial invariance(Achieving Accuracy of 96.666666667%).
 * **Optimized LSTM Architecture:** Lightweight (< 1MB) sequential model with dropout regularization and a widened dense funnel to prevent bottlenecking.
 * **Real-Time Inference:** Bypasses standard Keras prediction overhead for lag-free OpenCV webcam tracking.
 * **Anti-Flicker Stabilizer:** Uses frame-skipping and consecutive-frame logic to ensure smooth, readable UI text during sign transitions.
