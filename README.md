@@ -14,6 +14,6 @@ This project is an end-to-end machine learning pipeline that translates sign lan
 
 <img width="758" height="582" alt="Screenshot 2026-04-06 024252" src="https://github.com/user-attachments/assets/d26a936a-fbd8-4093-92db-d174578d1510" />
 
-<img width="595" height="162" alt="Screenshot 2026-04-06 024548" src="https://github.com/user-attachments/assets/045e317b-ea5c-4b9f-ba4f-5ef42324f7ca" />
+
 
 <img width="760" height="671" alt="Screenshot 2026-04-06 031716" src="https://github.com/user-attachments/assets/ec7db850-5f37-4bae-9a4e-833ae642a705" />
